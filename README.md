@@ -41,11 +41,19 @@ We used Isophonics[1], Robbie Williams[2], UsPop2002[3] dataset which consists o
 
 [1] http://isophonics.net/datasets 
 
+```
+wget -r --no-parent --reject "index.html*" http://chordtranscriptions.net/automatictranscriptions/chord/
+```
+
 [2] B. Di Giorgi, M. Zanoni, A. Sarti, and S. Tubaro. Automatic
 chord recognition based on the probabilistic
 modeling of diatonic modal harmony. In Proc. of the
 8th International Workshop on Multidimensional Systems,
 Erlangen, Germany, 2013.
+
+```
+download link: http://ispg.deib.polimi.it/mir-software.html
+```
 
 [3] https://github.com/tmc323/Chord-Annotations
 
@@ -54,4 +62,3 @@ Erlangen, Germany, 2013.
 
 ## Comments
   * Any comments for the codes are always welcome.
-
