@@ -1,4 +1,6 @@
-pytorch>=1.0.0
+#pytorch>=1.0.0
+torch
+torchvision
 numpy>=1.16.2
 pandas>=0.24.1
 pyrubberband>=0.3.0
